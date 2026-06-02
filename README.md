@@ -14,7 +14,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
@@ -25,5 +25,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+<!-- Architecture & Patterns -->
+![CQRS](https://img.shields.io/badge/CQRS-Architecture-orange?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-Pattern-red?style=for-the-badge)
+![Autofac](https://img.shields.io/badge/Autofac-IoC-blue?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-black?style=for-the-badge)
+
+<!-- Logging / Validation -->
+![FluentValidation](https://img.shields.io/badge/FluentValidation-green?style=for-the-badge)
+![Serilog](https://img.shields.io/badge/Serilog-2C2C2C?style=for-the-badge)
+![NLog](https://img.shields.io/badge/NLog-black?style=for-the-badge)
+
+<!-- Frontend UI -->
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge)
 
 </p>
