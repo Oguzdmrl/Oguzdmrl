@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Github Stats:
 
-![OGUZ GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzdmrl&show_icons=true&theme=transparent)
+![OGUZ GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzdmrl&show_icons=true&theme=radical)
