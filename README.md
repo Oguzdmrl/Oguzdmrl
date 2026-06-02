@@ -16,11 +16,34 @@ Here are some ideas to get you started:
 -->
 
 
+## 📊 GitHub Stats Themes
 
-### Github Stats:
+### Dark
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=dark)
 
-## 📊 Stats
+### Radical
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=radical)
 
+### Merko
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=merko)
+
+### Gruvbox
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=gruvbox)
+
+### Tokyo Night
 ![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Oguzdmrl&theme=transparent)
+### One Dark
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=onedark)
+
+### Cobalt
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=cobalt)
+
+### Synthwave
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=synthwave)
+
+### High Contrast
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=highcontrast)
+
+### Dracula
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=dracula)
