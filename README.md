@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 ### Github Stats:
 
-![OGUZ Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=tokyonight)
+## 📊 Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=Oguzdmrl&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Oguzdmrl&theme=transparent)
